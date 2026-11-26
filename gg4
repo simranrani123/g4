@@ -1,0 +1,4 @@
+ Git will clone the repository to your local machine. Once the process is complete, 
+you will have a local copy of the remote repository in your chosen directory. 
+You can now work with the cloned repository on your local machine, make changes, and 
+push those changes back to the remote repository as needed
